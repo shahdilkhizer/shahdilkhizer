@@ -50,8 +50,8 @@
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your_email@example.com
+- GitHub: /github.com/shahdilkhizer
+- Email: shahdilkhizer786@gmail.com
 
 ---
 
