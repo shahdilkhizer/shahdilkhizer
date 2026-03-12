@@ -1,13 +1,11 @@
 # Hi 👋 I'm Shahdil
 
-### 💻 Solution Engineer | Salesforce Developer | Full Stack Developer  
+### 💻 Solution Engineer | Full Stack Developer  
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working as **Salesforce Developer / Consultant**
-- ⚡ Experienced in **Apex, LWC, Visualforce**
 - 🌐 Web Development: **JavaScript, HTML, CSS**
 - 📱 Mobile & Backend Development
 - 🧠 Problem Solver & System Architect
@@ -22,9 +20,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-**☁️ Salesforce:**<br>
-<img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"> *(Apex, LWC, Visualforce, Experience Cloud, Flows)*
 
 **💻 Programming:**<br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
